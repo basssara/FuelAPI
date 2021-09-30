@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "loliloli",
+    "mongoURI": "mongodb+srv://username:password@cluster0.dxujm.mongodb.net/database?retryWrites=true&w=majority",
+    "JWT_ACCESS_SECRET": "jwt-secret-key",
+    "JWT_REFRESH_SECRET": "jwt-refresh-secret-key"
+}
